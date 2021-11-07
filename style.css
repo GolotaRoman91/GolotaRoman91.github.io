@@ -1,0 +1,27 @@
+.generate {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+    width: 100px;
+    border-radius: 8px;
+ }
+
+ .reset {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+    width: 100px;
+    border-radius: 8px;
+ }
+
+ .minNumber {
+    border-radius: 4px;
+ }
+
+ .maxNumber {
+    border-radius: 4px;
+ }
+
+ body {
+    background-color: aqua; 
+ }
